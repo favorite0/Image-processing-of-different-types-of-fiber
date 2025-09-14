@@ -1,0 +1,38 @@
+<annotation>
+	<folder>所有改尺寸水平翻转</folder>
+	<filename>s-b47.jpg</filename>
+	<path>C:\Users\Yu\Desktop\laji\所有改尺寸水平翻转\s-b47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>135</ymin>
+			<xmax>282</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>126</ymin>
+			<xmax>473</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

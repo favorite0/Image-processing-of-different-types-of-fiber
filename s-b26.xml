@@ -1,0 +1,26 @@
+<annotation>
+	<folder>所有改尺寸水平翻转</folder>
+	<filename>s-b26.jpg</filename>
+	<path>C:\Users\Yu\Desktop\laji\所有改尺寸水平翻转\s-b26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>103</ymin>
+			<xmax>427</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>
