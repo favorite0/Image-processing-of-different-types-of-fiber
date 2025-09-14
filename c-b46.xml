@@ -1,0 +1,38 @@
+<annotation>
+	<folder>所有改尺寸垂直翻转</folder>
+	<filename>c-b46.jpg</filename>
+	<path>C:\Users\windows10\Desktop\7.28\所有改尺寸垂直翻转\c-b46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>183</ymin>
+			<xmax>482</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>196</ymin>
+			<xmax>347</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

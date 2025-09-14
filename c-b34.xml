@@ -1,0 +1,38 @@
+<annotation>
+	<folder>所有改尺寸垂直翻转</folder>
+	<filename>c-b34.jpg</filename>
+	<path>C:\Users\windows10\Desktop\7.28\所有改尺寸垂直翻转\c-b34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>233</ymin>
+			<xmax>453</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>298</ymin>
+			<xmax>295</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
