@@ -1,0 +1,26 @@
+<annotation>
+	<folder>亮度对比度改变</folder>
+	<filename>ld-b20.jpg</filename>
+	<path>C:\Users\Yu\Desktop\laji\亮度对比度改变\ld-b20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic film</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>152</ymin>
+			<xmax>422</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
