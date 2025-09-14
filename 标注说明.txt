@@ -1,0 +1,8 @@
+使用labelImg进行标注，保存为.xml格式
+短横线前为原图像变换代号
+短横线后为种类代号
+s代表丙纶丝，标注为PP yarn
+h代表化学纤维，标注为chemical fiber
+b代表塑料薄膜，标注为plastic film
+y代表羽毛，标注为feather
+部分丙纶丝和塑料薄膜接近透明，注意边缘。
